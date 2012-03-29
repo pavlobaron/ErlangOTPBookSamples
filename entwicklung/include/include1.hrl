@@ -1,0 +1,2 @@
+-define(PAVLO, 'pb@pbit.org').
+-define(VOLKERT, 'volkert.barr@googlemail.com').

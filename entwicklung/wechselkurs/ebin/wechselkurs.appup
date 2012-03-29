@@ -1,0 +1,3 @@
+{"0.2",
+[{"0.1", [{load_module, wechselkurs_client}]}],
+[{"0.1", [{load_module, wechselkurs_client}]}]}.
